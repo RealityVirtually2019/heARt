@@ -156,6 +156,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Lumin: com.company.heARt
     Standalone: com.Company.ProductName
   buildNumber: {}
   AndroidBundleVersionCode: 1
@@ -661,13 +662,16 @@ PlayerSettings:
     m_ModelFolderPath: 
     m_PortalFolderPath: 
   luminCert:
-    m_CertPath: 
+    m_CertPath: C:/Users/tpura/Downloads/heart.cert
     m_PrivateKeyPath: 
   luminIsChannelApp: 0
   luminVersion:
     m_VersionCode: 1
     m_VersionName: 
-  luminPrivilege: []
+  luminPrivilege:
+  - LocalAreaNetwork
+  - Internet
+  - PwFoundObjRead
   luminMinimumPlatformAPILevel: 3
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
