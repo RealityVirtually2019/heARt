@@ -217,6 +217,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7277821e30133e54d9d566cc2c1c62e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  text: {fileID: 33998419}
 --- !u!114 &280991812
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -230,6 +231,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sender: 1
   web: {fileID: 280991811}
+  txt: {fileID: 33998419}
 --- !u!114 &280991813
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -295,8 +297,8 @@ Camera:
   m_GameObject: {fileID: 579781244}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -322,7 +324,10 @@ Camera:
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
+  m_StereoConvergencePoint: {fileID: 0}
   m_StereoSeparation: 0.022
+  m_StabilizationDistance: 0
+  m_StabilizationMode: 0
 --- !u!4 &579781248
 Transform:
   m_ObjectHideFlags: 0

@@ -8,7 +8,7 @@ using System.Text;
 public class SendMessages : MonoBehaviour {
 
 	const string IP = "255.255.255.255";
-	const int PORT_NUM = 1998;
+	const int PORT_NUM = 9987;
 
 	public static SendMessages Instance { get; private set; }
 

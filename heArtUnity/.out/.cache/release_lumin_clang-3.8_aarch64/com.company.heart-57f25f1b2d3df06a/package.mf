@@ -16,9 +16,9 @@
   },
   {
    "compression": 8,
-   "hash": "163d647d68da026d26907233d8ffaf48e29eb9a5",
+   "hash": "cc40b9a3622c84f30375ad593ea65b7680a4ccd5",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 34010272,
+   "size": 34014368,
    "src": "C:/Users/tpura/Desktop/Unity Projects/heARt/heARt/heArtUnity/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -29,9 +29,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "15bff998f652a6ea5e929a53d6b79e84776f60fe",
+   "xfrm_hash": "622e758bee0b740bc55bd73f4dfb56ae83bc51c6",
    "xfrm_path": "C:/Users/tpura/Desktop/Unity Projects/heARt/heARt/heArtUnity/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.heart-57f25f1b2d3df06a\\libil2cpp.so-09ce4e62e18047b3",
-   "xfrm_size": 34011030
+   "xfrm_size": 34015126
   },
   {
    "compression": 8,
@@ -167,7 +167,7 @@
   },
   {
    "compression": 8,
-   "hash": "f144d9882e9665726f5bf55d714f220e59c4b1bf",
+   "hash": "424a687ead1948754125cc5553a19400a2da4a80",
    "pkgpath": "Data/globalgamemanagers",
    "size": 36380,
    "src": "C:/Users/tpura/Desktop/Unity Projects/heARt/heARt/heArtUnity/Temp/StagingArea/Data/globalgamemanagers"

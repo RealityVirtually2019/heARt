@@ -13,7 +13,7 @@ public class RecieveMessages : MonoBehaviour {
 
 	void Start() {
 		// Create UDP client
-		int receiverPort = 1998;
+		int receiverPort = 9987;
 		receiver = new UdpClient(receiverPort);
 		receiver.BeginReceive(DataReceived, receiver);
 	}
