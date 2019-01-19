@@ -5,5 +5,6 @@ from django.http import HttpResponse
 
 
 def index(request):
-    print(request)
+    print(request.image)
+    
     return HttpResponse("Hello. You're at the polls index.")
