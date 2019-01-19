@@ -1,1 +1,8 @@
 Monitoring patients in Magic Leap using Computer Vision + Machine Learning for approximating heart rate just via camera, and accessing patient records via face recognition.
+
+
+
+Developer Usage:
+
+```cd djangorv
+python manage.py runserver```
