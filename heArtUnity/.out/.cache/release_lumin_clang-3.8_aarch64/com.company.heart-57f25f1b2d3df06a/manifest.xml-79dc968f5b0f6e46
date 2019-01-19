@@ -1,0 +1,14 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="8a8b4764-c073-43d3-a447-290dee4079fb" ml:package="com.company.heart" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="3" ml:sdk_version="1.0" ml:visible_name="heARt">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <uses-privilege ml:name="CameraCapture" />
+    <uses-privilege ml:name="GesturesConfig" />
+    <uses-privilege ml:name="GesturesSubscribe" />
+    <uses-privilege ml:name="Internet" />
+    <uses-privilege ml:name="LocalAreaNetwork" />
+    <uses-privilege ml:name="PwFoundObjRead" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="heARt">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>
