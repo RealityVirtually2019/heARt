@@ -1,0 +1,26 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="19d5991c-38e7-40ef-90e1-e8ad7f626efc" ml:package="com.company22.productname" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="3" ml:sdk_version="1.0" ml:visible_name="New Unity Project">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <uses-privilege ml:name="ConnectBackgroundMusicService" />
+    <uses-privilege ml:name="MusicService" />
+    <uses-privilege ml:name="RegisterBackgroundMusicService" />
+    <uses-privilege ml:name="ControllerPose" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="New Unity Project">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+    <component ml:binary_name="bin/ExampleMusicProvider" ml:name=".example_music_provider" ml:type="MusicService" ml:visible_name="ExampleMusicProvider">
+      <music-attribute ml:name="seekable" />
+      <music-attribute ml:name="shuffleable" />
+      <music-attribute ml:name="songRepeatable" />
+      <music-attribute ml:name="albumRepeatable" />
+      <music-attribute ml:name="nextAvailable" />
+      <music-attribute ml:name="prevAvailable" />
+      
+      <icon ml:model_folder="Empty" ml:portal_folder="Empty" />
+    </component>
+    <uses-privilege ml:name="AudioCaptureMic" />
+    <uses-privilege ml:name="CameraCapture" />
+    <uses-privilege ml:name="AudioRecognizer" />
+    <uses-privilege ml:name="VoiceInput" />
+  </application>
+</manifest>

@@ -1,0 +1,95 @@
+[com.company223.productname2222] Laying out DATAS into '.out'...
+mabu: reading data layout cache from 'D:/Unity/Projects/HRMagicLeap/.out/.cache/release_lumin_clang-3.8_aarch64/com.company223.productname2222-576fe0fd612e5bfd\layout.mf'
+mabu: skipping unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Player.elf'
+mabu: skipping unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so'
+mabu: skipping unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so'
+mabu: skipping unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so'
+mabu: skipping unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Plugins/nunit.framework.dll'
+mabu: skipping unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll'
+mabu: skipping unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll'
+mabu: skipping unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so'
+mabu: skipping unmodified file 'D:/MagicLeap/mlsdk/v0.19.0/lumin/stl/libc++/lib/libc++_shared.so'
+mabu: linked 'Temp\StagingArea\Data\Native\libil2cpp.so' into '.out\bin\libil2cpp.so'
+mabu: wrote data layout cache to 'D:/Unity/Projects/HRMagicLeap/.out/.cache/release_lumin_clang-3.8_aarch64/com.company223.productname2222-576fe0fd612e5bfd\layout.mf'
+[com.company223.productname2222] Creating package '.out\com.company223.productname2222.mpk'...
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Player.elf'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/94d31a7fb3896ab4691f024d0f1a40fa'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/boot.config'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/level0.resS'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Plugins/nunit.framework.dll'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Resources/unity default resources'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/Resources/unity_builtin_extra'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/StreamingAssets/BackgroundMusicExample/Tune1.mp3'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/StreamingAssets/BackgroundMusicExample/Tune2.mp3'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/StreamingAssets/BackgroundMusicExample/Tune3.ogg'
+mabu: not repackaging unmodified file 'D:/Unity/Projects/HRMagicLeap/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json'
+mabu: not repackaging unmodified file 'D:/MagicLeap/mlsdk/v0.19.0/lumin/stl/libc++/lib/libc++_shared.so'
+mabu: not repackaging unmodified file 'D:\Unity\Projects\HRMagicLeap\Temp\StagingArea\manifest.xml'
+mabu: setting tail data: D:\MagicLeap\mlsdk\v0.19.0\tools\python3\python.exe D:\MagicLeap\mlsdk\v0.19.0\tools\mabu\src\taildata_v3.py --sbox USER D:/Unity/Projects/HRMagicLeap/.out/.cache/release_lumin_clang-3.8_aarch64/com.company223.productname2222-576fe0fd612e5bfd\libil2cpp.so-f597469f22ef1780
+mabu: applied tail data to 'D:/Unity/Projects/HRMagicLeap/.out/.cache/release_lumin_clang-3.8_aarch64/com.company223.productname2222-576fe0fd612e5bfd\libil2cpp.so-f597469f22ef1780'
+mabu: running signer tool: D:/MagicLeap/mlsdk/v0.19.0\tools\signer\sign-file sha512 D:\heart.privkey D:\heart.cert D:/Unity/Projects/HRMagicLeap/.out/.cache/release_lumin_clang-3.8_aarch64/com.company223.productname2222-576fe0fd612e5bfd\libil2cpp.so-f597469f22ef1780
+mabu: signed 'D:/Unity/Projects/HRMagicLeap/.out/.cache/release_lumin_clang-3.8_aarch64/com.company223.productname2222-576fe0fd612e5bfd\libil2cpp.so-f597469f22ef1780'
+mabu: removing package entry 'Data/170c02e10c121294486c57133d65b5cc'
+mabu: removing package entry 'Data/1e71f539decd80f4bb2541c46a153223'
+mabu: removing package entry 'Data/2b303258409019f428ed17a87cda4ac9'
+mabu: removing package entry 'Data/479521f96370b384d810a07599e7b084'
+mabu: removing package entry 'Data/51731a8a220e240478717934f6e99543'
+mabu: removing package entry 'Data/63e7f9bd47d71334aa0ffb67cc5bbfb1'
+mabu: removing package entry 'Data/7f93338dc6150ea45b387e442e8102da'
+mabu: removing package entry 'Data/8401b9c91b47d6449a4be596c8138a90'
+mabu: removing package entry 'Data/917dc8bcba1c29c4c8bd325b59088d1c'
+mabu: removing package entry 'Data/sharedassets0.assets.resS'
+mabu: updating package entry 'Data/095890d8c9bde1a45b549a17e6e6f961'
+mabu: updating package entry 'Data/9c9078c06443df049a2830962f9dd5ef'
+mabu: updating package entry 'Data/Managed/Metadata/global-metadata.dat'
+mabu: updating package entry 'Data/adcae46baa3736748a69f9f489676bd7'
+mabu: updating package entry 'Data/globalgamemanagers'
+mabu: updating package entry 'Data/globalgamemanagers.assets'
+mabu: updating package entry 'Data/level0'
+mabu: updating package entry 'Data/sharedassets0.assets'
+mabu: updating package entry 'bin/libil2cpp.so'
+mabu: updated package file 'D:/Unity/Projects/HRMagicLeap/.out/com.company223.productname2222.mpk'
+mabu: setting tail data: D:\MagicLeap\mlsdk\v0.19.0\tools\python3\python.exe D:\MagicLeap\mlsdk\v0.19.0\tools\mabu\src\taildata_v3.py --sbox USER --devcert D:\heart.cert D:/Unity/Projects/HRMagicLeap/.out/com.company223.productname2222.mpk
+mabu: applied tail data to 'D:/Unity/Projects/HRMagicLeap/.out/com.company223.productname2222.mpk'
+mabu: running signer tool: D:/MagicLeap/mlsdk/v0.19.0\tools\signer\sign-file sha512 D:\heart.privkey D:\heart.cert D:/Unity/Projects/HRMagicLeap/.out/com.company223.productname2222.mpk
+mabu: signed 'D:/Unity/Projects/HRMagicLeap/.out/com.company223.productname2222.mpk'
+mabu: wrote package build cache to 'D:/Unity/Projects/HRMagicLeap/.out/.cache/release_lumin_clang-3.8_aarch64/com.company223.productname2222-576fe0fd612e5bfd\package.mf'
+mabu: 'com.company223.productname2222' output in '.out'
+mabu: using build target 'release_lumin_clang-3.8_aarch64'
+mabu: warning: Temp\StagingArea\manifest.xml: <component ml:name=".example_music_provider"> has ml:binary_name "bin/ExampleMusicProvider" which is not bundled in this package; these are the package's files (see --print-outputs):
+	bin/Player.elf
+	Data/095890d8c9bde1a45b549a17e6e6f961
+	Data/94d31a7fb3896ab4691f024d0f1a40fa
+	Data/9c9078c06443df049a2830962f9dd5ef
+	Data/adcae46baa3736748a69f9f489676bd7
+	Data/boot.config
+	Data/globalgamemanagers
+	Data/globalgamemanagers.assets
+	Data/level0
+	Data/level0.resS
+	Data/sharedassets0.assets
+	Data/Managed/Metadata/global-metadata.dat
+	bin/libil2cpp.so
+	bin/AudioPluginMSASpatializer.so
+	bin/libml_camera_plugin.so
+	bin/libml_mediaplayer_plugin.so
+	bin/nunit.framework.dll
+	bin/UnityEngine.SpatialTracking.dll
+	bin/UnityEngine.TestRunner.dll
+	bin/UnityMagicLeap.so
+	Data/Resources/mscorlib.dll-resources.dat
+	Data/Resources/unity default resources
+	Data/Resources/unity_builtin_extra
+	Data/StreamingAssets/BackgroundMusicExample/Tune1.mp3
+	Data/StreamingAssets/BackgroundMusicExample/Tune2.mp3
+	Data/StreamingAssets/BackgroundMusicExample/Tune3.ogg
+	Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json
+	bin/libc++_shared.so
+	manifest.xml

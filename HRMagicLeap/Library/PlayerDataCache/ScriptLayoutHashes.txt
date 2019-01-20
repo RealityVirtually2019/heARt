@@ -1,6 +1,6 @@
 Lumin
 PlayerPath?
-D:/Unity/Projects/New Unity Project/mlheart.mpk
+D:/Unity/Projects/HRMagicLeap/heartml2.mpk
 SceneListBegin?
 Assets/MagicLeap/Examples/Scenes/HandTracking.unity
 SceneListEnd?
@@ -174,6 +174,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 3f32f08a64daf40b09ed864d96fe3840 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
+a2f1c1a7ce9e3dbf6a0e14384dda05ea Assembly-CSharp.dll:.InteractionController
 9aaedc255c9788a1c25d2b0407bbcb8f Assembly-CSharp.dll:MagicLeap.PlanesExample
 bd8dba5f8f9406c24767e50bdfeaf214 Assembly-CSharp.dll:UnityEngine.XR.MagicLeap.ComboRaycastHead
 f36938efaa7ce487353613298530bb19 Assembly-CSharp.dll:MagicLeap.VideoCaptureExample
@@ -218,6 +219,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 9f7e98f3c74722d33450341091b5ed75 MSA.Runtime.dll:MSA.MSASource
 e13e1673d36d52dc34214ac3510861e3 Assembly-CSharp.dll:.DataPlotter
 bd8dba5f8f9406c24767e50bdfeaf214 Assembly-CSharp.dll:UnityEngine.XR.MagicLeap.ComboRaycastEyes
+c57abf2d8e52682c360aad14cd96bac3 Assembly-CSharp.dll:.Randomizer
 8ef655ebebfe0955a6bf746ebeb600b6 Assembly-CSharp.dll:UnityEngine.XR.MagicLeap.PrivilegeDeniedError
 438b028f4186ddc492eac801f701928a Assembly-CSharp.dll:MagicLeap.FaceCamera
 62aa5a5271dcb795614557fb0a6df1b8 Assembly-CSharp.dll:MagicLeap.AudioCaptureExample
@@ -230,4 +232,7 @@ bd8dba5f8f9406c24767e50bdfeaf214 Assembly-CSharp.dll:UnityEngine.XR.MagicLeap.Co
 66eb4003e71585f0ef4c23034c2aa3b2 Assembly-CSharp.dll:MagicLeap.VirtualPointer
 08a92322e38205b685c92fa359d21d7a Assembly-CSharp.dll:MagicLeap.MeshingVisualizer
 2c832bb50381ee4d40b2f62c67f06a67 Assembly-CSharp.dll:MagicLeap.DeepSeaExplorerLauncher
-ca2ba389040932b9ab34d909330dbbf8 Assembly-CSharp.dll:.InteractionController
+650c1e412dac0323d37ae3023565f947 Assembly-CSharp.dll:.MenuElement
+18dceb5d6401bdf2949a268718b87810 Assembly-CSharp.dll:.Manager
+2b713c4c87cc2c41cd74fb646c6014ba Assembly-CSharp.dll:.SendMessages
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.RecieveMessages

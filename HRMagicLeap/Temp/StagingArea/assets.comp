@@ -1,0 +1,35 @@
+######### DO NOT EDIT BELOW #########
+DATAS = \
+	Player.elf : bin/Player.elf \
+	Data/095890d8c9bde1a45b549a17e6e6f961 \
+	Data/94d31a7fb3896ab4691f024d0f1a40fa \
+	Data/9c9078c06443df049a2830962f9dd5ef \
+	Data/adcae46baa3736748a69f9f489676bd7 \
+	Data/boot.config \
+	Data/globalgamemanagers \
+	Data/globalgamemanagers.assets \
+	Data/level0 \
+	Data/level0.resS \
+	Data/sharedassets0.assets \
+	Data/Managed/Metadata/global-metadata.dat \
+	Data/Native/libil2cpp.so : bin/libil2cpp.so \
+	Data/Plugins/AudioPluginMSASpatializer.so : bin/AudioPluginMSASpatializer.so \
+	Data/Plugins/libml_camera_plugin.so : bin/libml_camera_plugin.so \
+	Data/Plugins/libml_mediaplayer_plugin.so : bin/libml_mediaplayer_plugin.so \
+	Data/Plugins/nunit.framework.dll : bin/nunit.framework.dll \
+	Data/Plugins/UnityEngine.SpatialTracking.dll : bin/UnityEngine.SpatialTracking.dll \
+	Data/Plugins/UnityEngine.TestRunner.dll : bin/UnityEngine.TestRunner.dll \
+	Data/Plugins/UnityMagicLeap.so : bin/UnityMagicLeap.so \
+	Data/Resources/mscorlib.dll-resources.dat \
+	"Data/Resources/unity default resources" \
+	Data/Resources/unity_builtin_extra \
+	Data/StreamingAssets/BackgroundMusicExample/Tune1.mp3 \
+	Data/StreamingAssets/BackgroundMusicExample/Tune2.mp3 \
+	Data/StreamingAssets/BackgroundMusicExample/Tune3.ogg \
+	Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json \
+	D:/MagicLeap/mlsdk/v0.19.0/lumin/stl/libc++/lib/libc++_shared.so : bin/libc++_shared.so \
+
+
+
+
+######### DO NOT EDIT ABOVE #########

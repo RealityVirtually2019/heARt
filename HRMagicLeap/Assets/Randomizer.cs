@@ -5,12 +5,12 @@ using UnityEngine.UI;
 
 public class Randomizer : MonoBehaviour
 {
-    public TextMesh HR;
-    public TextMesh RR;
-    public TextMesh Sp02;
-    public TextMesh SBP;
-    public TextMesh DBP;
-    public TextMesh Temp;
+    public Text HR;
+    public Text RR;
+    public Text Sp02;
+    public Text SBP;
+    public Text DBP;
+    public Text Temp;
     // Use this for initialization
     void Start()
     {

@@ -1,7 +1,7 @@
 sceneSetups:
-- path: Assets/MagicLeap/Examples/Scenes/HandTracking.unity
+- path: C:/Users/Admin/Desktop/RealityVirtually/heARt/HRMagicLeap/Assets/heartmagicleap.unity
   isLoaded: 1
   isActive: 1
-- path: Assets/MagicLeap/Examples/Scenes/AudioCapture.unity
-  isLoaded: 0
+- path: Assets/MagicLeap/Examples/Scenes/HandTracking.unity
+  isLoaded: 1
   isActive: 0
