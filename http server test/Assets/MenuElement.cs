@@ -18,7 +18,7 @@ public class MenuElement : MonoBehaviour {
 		//text.text = message.ToString();
 		CurrMessage = System.Text.Encoding.UTF8.GetString (message);
 
-		text.text += CurrMessage + "/n";
+		text.text += CurrMessage + "/n" + "C:\\Users\\tpura\\Desktop\\Unity Projects\\heARt\\heARt\\http server test\\Assets\\Scenes";
 		//File.WriteAllBytes ("C:\\Users\\tpura\\Desktop\\Unity Projects\\file.png", message);
 
 		Debug.Log("received");

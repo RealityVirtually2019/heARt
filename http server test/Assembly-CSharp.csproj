@@ -57,11 +57,11 @@
      <Compile Include="Assets\SendMessages.cs" />
      <None Include="Assets\Scenes\test.txt" />
      <None Include="Assets\MagicLeap\Soundfield\Release Notes.txt" />
- <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/tpura/Desktop/Unity Projects/heARt/heARt/http server test/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
- </Reference>
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/tpura/Desktop/Unity Projects/heARt/heARt/http server test/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.PackageManagerUI.Editor">
+ <HintPath>C:/Users/tpura/Desktop/Unity Projects/heARt/heARt/http server test/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Unity 2018.1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
