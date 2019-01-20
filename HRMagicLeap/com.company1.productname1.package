@@ -1,0 +1,11 @@
+######### DO NOT EDIT BELOW #########
+
+
+USES = \
+	"D:\Unity\Projects\New Unity Project\Temp/StagingArea\assets" \
+
+
+######### DO NOT EDIT ABOVE #########
+
+DATAS = \
+	ExampleMusicProvider : bin/ \

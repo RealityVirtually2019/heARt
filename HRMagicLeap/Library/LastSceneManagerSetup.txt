@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/MagicLeap/Examples/Scenes/HandTracking.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/MagicLeap/Examples/Scenes/AudioCapture.unity
+  isLoaded: 0
+  isActive: 0
