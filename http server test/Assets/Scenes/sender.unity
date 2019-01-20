@@ -232,6 +232,7 @@ MonoBehaviour:
   sender: 1
   web: {fileID: 280991811}
   txt: {fileID: 33998419}
+  textFile: {fileID: 4900000, guid: d5f1b02272d1b1f48be6a0c5d15713bf, type: 3}
 --- !u!114 &280991813
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -243,7 +244,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7bc5a3fb6fc95fc46b0b34ad4f848f33, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  menu: {fileID: 0}
+  menu: {fileID: 280991811}
 --- !u!4 &280991814
 Transform:
   m_ObjectHideFlags: 0
@@ -324,10 +325,7 @@ Camera:
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
-  m_StereoConvergencePoint: {fileID: 0}
   m_StereoSeparation: 0.022
-  m_StabilizationDistance: 0
-  m_StabilizationMode: 0
 --- !u!4 &579781248
 Transform:
   m_ObjectHideFlags: 0

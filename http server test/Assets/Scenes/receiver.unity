@@ -309,10 +309,7 @@ Camera:
   m_ForceIntoRT: 0
   m_OcclusionCulling: 0
   m_StereoConvergence: 10
-  m_StereoConvergencePoint: {fileID: 0}
   m_StereoSeparation: 0.022
-  m_StabilizationDistance: 0
-  m_StabilizationMode: 0
 --- !u!4 &519420032
 Transform:
   m_ObjectHideFlags: 0
@@ -433,7 +430,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7277821e30133e54d9d566cc2c1c62e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text: {fileID: 1054705960}
+  text: {fileID: 170756080}
 --- !u!114 &882483689
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -458,7 +455,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sender: 0
   web: {fileID: 882483688}
-  txt: {fileID: 1054705960}
+  txt: {fileID: 170756080}
+  textFile: {fileID: 0}
 --- !u!1 &1054705958
 GameObject:
   m_ObjectHideFlags: 0
@@ -665,12 +663,12 @@ MonoBehaviour:
   m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96

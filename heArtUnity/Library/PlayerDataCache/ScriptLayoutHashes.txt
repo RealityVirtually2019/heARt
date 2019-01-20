@@ -2,7 +2,7 @@ Lumin
 PlayerPath?
 C:/Users/tpura/Desktop/test.mpk
 SceneListBegin?
-Assets/MagicLeap/Examples/Scenes/ImageCapture.unity
+Assets/Scenes/SampleScene Recieve.unity
 SceneListEnd?
 588c819a9e0309a4f768ae93ee4e7341 Assembly-CSharp.dll:MagicLeap.PersistenceExample
 fe902a933c0490bd346cdfe28ceb165e Assembly-CSharp.dll:UnityEngine.XR.MagicLeap.MagicLeapSceneOptimizer
@@ -233,3 +233,7 @@ bd8dba5f8f9406c24767e50bdfeaf214 Assembly-CSharp.dll:UnityEngine.XR.MagicLeap.Co
 66eb4003e71585f0ef4c23034c2aa3b2 Assembly-CSharp.dll:MagicLeap.VirtualPointer
 08a92322e38205b685c92fa359d21d7a Assembly-CSharp.dll:MagicLeap.MeshingVisualizer
 2c832bb50381ee4d40b2f62c67f06a67 Assembly-CSharp.dll:MagicLeap.DeepSeaExplorerLauncher
+650c1e412dac0323d37ae3023565f947 Assembly-CSharp.dll:.MenuElement
+a0bca0a33bc882b5301f1bcb250cd610 Assembly-CSharp.dll:.Manager
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.RecieveMessages
+2b713c4c87cc2c41cd74fb646c6014ba Assembly-CSharp.dll:.SendMessages

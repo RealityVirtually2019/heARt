@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/MagicLeap/Examples/Scenes/LightTracking.unity
+- path: Assets/Scenes/receiver.unity
   isLoaded: 1
   isActive: 1
